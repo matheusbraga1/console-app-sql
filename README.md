@@ -1,7 +1,5 @@
 # Console Application (Sistema de integração com banco de dados)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/1280px-Windows_Terminal_logo.svg.png"/>
-
 > Criei esse projetinho para estudar um pouco sobre integração com banco de dados utilizando Dapper e .NET.
 
 ### 💻 Ajustes e melhorias
